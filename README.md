@@ -1,6 +1,5 @@
 # Estudos Assembly
 
-Para entender melhor o Assembly RISC-V decidi fazer códigos para tratar problemas que, em outras
-linguagens, eu já sabia resolver. Alguns desses problemas são: Fibonacci, Fatorial não recursivo,
-inverter uma string, Bubble Sort. Esses exercícios foram realizados para a disciplina de Organização
-e Arquitetura de Computadores ministrada no 1º semestre de 2023 pela professora Sarita Mazzini Bruschi.
+O grupo formado por Enzo Nunes Sedenho [13671810], Gabriel da Costa Merlin [12544420], João Pedro Mori Machado [13671331] e
+Pedro Augusto Monteiro Delgado [13672766] implementou uma lista ligada usando o Assembly RISC-V para a disciplina de 
+Organização e Arquitetura de Computadores ministrada no 1º semestre de 2023 pela professora Sarita Mazzini Bruschi.
